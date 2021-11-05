@@ -1,2 +1,0 @@
-1 Quan quan_bo mau_be 10000 86 L 15 150
-2 Ao ao_ca_sa mau_do 20000 92 M 50 150 150 100
